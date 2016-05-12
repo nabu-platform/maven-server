@@ -1,0 +1,28 @@
+* {
+	font-family: Monospace, Segoe UI, DejaVu Sans;
+	font-size: 9pt;
+	outline: 0px solid transparent;
+}
+
+body {
+	padding: 20px;
+}
+
+h1 {
+	font-size: 16pt;
+}
+
+a {
+	text-decoration: none;
+	text-weight: bold;
+	color: #0090FF;
+}
+
+a:hover {
+	border: dashed 1px #0090FF;
+	border-style: none none dashed none;
+}
+
+ul {
+	list-style-type: circle;
+}
